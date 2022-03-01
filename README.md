@@ -1,2 +1,2 @@
 # Excercise-r
-Introduction -to -r -programming
+Introduction-to-r-programming
